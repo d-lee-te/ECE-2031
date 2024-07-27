@@ -6,7 +6,7 @@ Lectured by Kevin Johnson
 ## About
 [Official course listing page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201308&subj_code_in=CS&crse_numb_in=3630).
 
-VHDL was used for the majority of this class's code.
+VHDL was used for the majority of this class's code with the occasional use of Assembly and Machine Code.
 
 ### Course Curriculum
 Described [here](https://ece.gatech.edu/courses/ece2031)!
