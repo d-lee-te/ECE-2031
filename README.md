@@ -1,7 +1,7 @@
 # ECE 2031 - Digital Design Lab (Fall 2022)
 I took ECE 2031 in the Fall of 2022.
 
-Lectured by Kevin Johnson
+Lectured by Kevin Johnson.
 
 ## About
 [Official course listing page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201308&subj_code_in=CS&crse_numb_in=3630).
