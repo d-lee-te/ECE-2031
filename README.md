@@ -46,7 +46,7 @@ Described [here](https://ece.gatech.edu/courses/ece2031)!
     ![StateMachine](https://github.com/d-lee-te/ECE-2031/blob/87b12b0eea170ca56e5a5fb6e98bd3f9574188f3/TrainLayoutn.png)
     - Program state machine above
     - Test controller using FPGA switches
-7. Simple computer (SCOMOPP)
+7. Simple computer (SCOMP)
     - Download and use SCASM
     - Program machine language for processor simulator
     - Add new instruction in .vhd files
