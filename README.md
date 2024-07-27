@@ -6,8 +6,54 @@ Lectured by Kevin Johnson
 ## About
 [Official course listing page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201308&subj_code_in=CS&crse_numb_in=3630).
 
+VHDL was used for the majority of this class's code.
+
 ### Course Curriculum
 Described [here](https://ece.gatech.edu/courses/ece2031)!
+
+### Labs
+0. Setup Quartus Software
+1. Digital Design Logic
+    - Create sim wave file
+    - Adding signals to waveform
+    - Run ModelSim
+    - Assigning FPGA pins
+    - Compiling and programmer
+    - Detecting programming chain
+    - Configuring and programming FPGA
+2. Circuit Prototyping
+    - Create boolean expression using K-Map
+    - Draft schematic and create wire diagram
+    - Wire switches, LED, and resistors on breadboard
+    - Connect to power supply
+    - Check and record w/ Oscilloscope
+3. Hardware Description Languages
+    - Declare signal in VHDL
+    - Conditional logic in VHDL
+    - Measure period using Oscilloscope
+    - Simulate and measure maximum propagation delay
+4. Combinational Circuits
+    - Draft state machine (based on traffic light in this class)
+    - Wire with D flip-flop (74'74 dual DFF chip)
+    - Program state machine and simulate using FPGA
+    - Finish wiring prototype
+5. Complex digital circuits
+    - Add state machine to wrapper files/project
+    - Connect and enable signal tap logic analyzer
+    - Add nodes and configure sampling settings
+    - Simulate and test using trigger conditions and specific sequences
+6. State machines and controllers
+    ![StateMachine](https://github.com/d-lee-te/ECE-2031/blob/87b12b0eea170ca56e5a5fb6e98bd3f9574188f3/TrainLayoutn.png)
+    - Program state machine above
+    - Test controller using FPGA switches
+7. Simple computer (SCOMOPP)
+    - Download and use SCASM
+    - Program machine language for processor simulator
+    - Add new instruction in .vhd files
+    - Manipulate memory for simulator by modifying assembly code in a wrapper .asm file
+8. SCOMP I/O function and subroutines
+    - Write subroutines for I/O functions on SCOMP
+    - Program a LED bouncing game for SCOMP and simulate/test on FPGA
 
 ### Final
 Group project repository can be found [here](https://github.com/d-lee-te/Sinusoidal-Audio-Peripheral)!
